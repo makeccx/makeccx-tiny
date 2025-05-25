@@ -1,4 +1,7 @@
-const { api, type, Extension } = self.ClipCCExtension
+/// <reference path="../clipcc-extension.d.ts" />
+
+/** @type {import("clipcc-extension")} */
+const { api, type, Extension } = self.ClipCCExtension 
 
 const extension_id = "unknown.extension"
 

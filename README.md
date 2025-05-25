@@ -8,7 +8,7 @@
 > ❌ 不支持 多个 JS 文件  
 > ❌ 不支持 语言文件特殊写法  
 > ❌ 不支持 node_modules  
-> ❌ 不支持 TypeScript  
+> ❌ 不支持 TypeScript（可以用 JSDoc 代替）  
 > ❌ 不支持 ES Module 语法  
 > ❌ 不支持 语法检查  
 > ❌ 不支持 Minify（压缩 JS 文件）  
