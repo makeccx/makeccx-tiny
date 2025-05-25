@@ -1,9 +1,10 @@
 # makeccx-tiny
 
-仅压缩 `src` 文件夹，无其它功能，相当于没有框架，但支持 JSDoc 类型提示。
+仅压缩 `src` 文件夹，几乎相当于没有框架。
 
 > ✅ 开发环境占用小  
 > ✅ 打包速度快  
+> ✅ 支持 JSDoc 类型提示  
 > ❌ 不支持 `require("clipcc-extension")`，需用 `self.ClipCCExtension` 代替  
 > ❌ 不支持 多个 JS 文件  
 > ❌ 不支持 语言文件特殊写法  
